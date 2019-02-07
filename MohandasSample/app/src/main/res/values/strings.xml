@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mohandas Sample</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_service">ServiceActivity</string>
+</resources>
